@@ -1,6 +1,8 @@
 ---
 title: Home
-layout: page
+layout: default
 ---
 
 [Single File Cat vs Non Cat](./1single.html)
+
+
