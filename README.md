@@ -1,2 +1,2 @@
-# tinypets
-Minimal JS interface to an image classifer
+# Test Website
+Minimal website for image classifer
